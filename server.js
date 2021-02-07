@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const logger = require("morgan");
 const workout = require("./models");
 const app = express();
+require("dotenv").config();
 
 const PORT = process.env.PORT || 8080;
 const db = require("./models");
@@ -15,7 +16,7 @@ app.use(express.json());
 // Static directory
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/Workout", {
+mongoose.connect(process.env.MONGODB_URI || `mongodb://${process.env.HOST}/Workout`, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,

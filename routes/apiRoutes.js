@@ -11,6 +11,16 @@ module.exports = function (app) {
       });
   });
 
+  app.get("/favicon.ico", function (req, res) {
+    Workout.find()
+      .then((data) => {
+        res.json(data);
+      })
+      .catch((err) => {
+        res.json(err);
+      });
+  });
+
   app.get("/api/workouts/range", (req, res) => {
     Workout.find()
       .then((data) => {
