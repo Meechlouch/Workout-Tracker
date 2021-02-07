@@ -40,13 +40,10 @@ module.exports = function (app) {
   });
 
   app.put("/api/workouts/:id", (req, res) => {
-    console.log("This is the params", req.params, req.body);
     const id = req.params.id;
     const workout = req.body;
-    console.log(workout);
     Workout.findByIdAndUpdate(id, { $push: { exercises: workout } }, { new: true })
       .then((data) => {
-        console.log(data);
         res.json(data);
       })
       .catch((err) => {
