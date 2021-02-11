@@ -90,7 +90,7 @@ For more information on this [License](https://choosealicense.com/licenses/mit/)
 
 ## Questions:question:
 
-:email: For additional questions, Get in touch at: Meechlouch@gmai.com
+:email: For additional questions, Get in touch at: Meechlouch@gmail.com
 
 :octocat: Check out my [GitHub](https://github.com/Meechlouch)
 
