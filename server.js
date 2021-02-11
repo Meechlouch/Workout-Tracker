@@ -1,12 +1,10 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const logger = require("morgan");
-const workout = require("./models");
 const app = express();
 require("dotenv").config();
 
 const PORT = process.env.PORT || 8080;
-const db = require("./models");
 
 app.use(logger("dev"));
 
