@@ -34,18 +34,19 @@ manipulate data. The dashboard features a GUI of graphs, tracking user workouts 
 
 ## :camera: Visuals
 
-  <img src="./public/assets/img/fitnessRoot.jpg" width="300">
+  <img src="./public/assets/img/fitnessRoot.jpg" width="600">
 
-  <img src="./public/assets/img/fitnessForm.jpg" width="300">
+  <img src="./public/assets/img/fitnessForm.jpg" width="600">
 
-  <img src="./public/assets/img/fitnessChart.jpg" width="300">
+  <img src="./public/assets/img/fitnessChart.jpg" width="600">
+  
 ## Installation:
 
     npm morgan|express|mongoose|mongoCompass and Atlas|dotenv|
 
 ## Usage:
 
-    Using MongoDB, this application can store, track, update workoutsfor user to better plan out and complete workout activities.
+    Using MongoDB, this application can store, track, update workouts for user to better plan out and complete workout activities.
 
 ## Contributing:
 
