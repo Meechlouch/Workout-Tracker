@@ -3,6 +3,9 @@
   <br>
   :muscle: Fitness-Tracker :muscle:
   </h1>
+  
+  ![License:](https://img.shields.io/badge/Demetri%20Dillard-MIT-brightgreen)
+
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" /></a>
@@ -12,17 +15,7 @@
     <a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge" alt="Express" /></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge" alt="MongoDB" /></a>
 </p>
-  ![License:](https://img.shields.io/badge/Demetri%20Dillard-MIT-brightgreen)
-   <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" /></a>
-    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
-    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
-    <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
-    <a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge" alt="Express" /></a>
-    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge" alt="MongoDB" /></a>
-</p>
-
+   
 # Table of Contents
 
 - [Description](#description)
@@ -36,7 +29,8 @@
 
 ## :memo: Description
 
-This is a full-stack CRUD application that allows a user to add and update exercises using MongoDB to store, track, and manipulate data. The dashboard features a GUI of graphs, tracking user workouts for each week.
+This is a full-stack CRUD application that allows a user to add and update exercises using MongoDB to store, track, and
+manipulate data. The dashboard features a GUI of graphs, tracking user workouts for each week.
 
 ## :camera: Visuals
 
