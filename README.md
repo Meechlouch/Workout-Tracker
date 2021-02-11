@@ -25,8 +25,11 @@ workouts for each week.
 
 ## :camera: Visuals
 
-  <img src="./assets/img/emP.gif" width="300">
+  <img src="./public/assets/img/fitnessRoot.jpg" width="300">
 
+  <img src="./public/assets/img/fitnessForm.jpg" width="300">
+
+  <img src="./public/assets/img/fitnessChart.jpg" width="300">
 ## Installation:
 
     npm morgan|express|mongoose|mongoCompass and Atlas|dotenv|
