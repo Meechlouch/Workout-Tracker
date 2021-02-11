@@ -82,8 +82,8 @@ For more information on this [License](https://choosealicense.com/licenses/mit/)
 
 :email: For additional questions, Get in touch at: Meechlouch@gmai.com
 
-:octocat: Check out my [GitHub](https://github.com/Meechlouch@gmail.com)
+:octocat: Check out my [GitHub](https://github.com/Meechlouch)
 
-:octocat: GitHub [Repository](https://github.com/Meechlouch@gmail.com/Workout-Tracker)
+:octocat: GitHub [Repository](https://github.com/Meechlouch/Workout-Tracker)
 
-:globe_with_meridians: Here is the [deployed](https://frozen-inlet-96321.herokuapp.com/) version.
+:globe_with_meridians: Here is the [deployed](https://lit-scrubland-35061.herokuapp.com/) version.

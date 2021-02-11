@@ -9,7 +9,7 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "author": "",
+  "author": "Demetri Dillard",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
